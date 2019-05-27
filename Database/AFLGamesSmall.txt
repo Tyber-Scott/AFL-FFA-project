@@ -1,0 +1,4 @@
+1.     8-May-1897       R1   Fitzroy           6.13.49          Carlton           2.4.16            Brunswick St
+2.     8-May-1897       R1   Collingwood       5.11.41          St Kilda          2.4.16            Victoria Park
+3.     8-May-1897       R1   Geelong           3.6.24           Essendon          7.5.47            Corio Oval
+4.     8-May-1897       R1   South Melbourne   3.9.27           Melbourne         6.8.44            Lake Oval
